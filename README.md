@@ -1,4 +1,4 @@
-# ONJ - naloga 1
+# ONJ_Assignment_IMapBook
 
 Programska koda uporabljena za 2. domačo nalogo pri predmetu Obdelava naravnega jezika
 
